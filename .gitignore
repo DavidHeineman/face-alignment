@@ -1,0 +1,10 @@
+/faces
+/photos
+/processed
+/zipped_photos
+/.ipynb_checkpoints
+/__pycache__
+*.dat
+*.bz2
+*.jpg
+*.avi
